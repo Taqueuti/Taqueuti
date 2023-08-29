@@ -32,7 +32,7 @@
 [![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=React-Native-Projetos&cache_seconds=86400&theme=aura)](https://github.com/React-Native-Projetos)
 [![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=Pot-ncia-Tech-Angular-ifood&cache_seconds=86400&theme=aura)](https://github.com/Pot-ncia-Tech-Angular-ifood)
 
-![Snake animation](https://github.com/Taqueuti/Taqueuti/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Taqueuti/Taqueuti/blob/output/github-contribution-grid-snake.svg)
 
 
 
