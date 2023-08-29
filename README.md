@@ -24,10 +24,13 @@
 
 
 
-## Desafios e Projetos Dio
+## Desafios e Projetos 
 
 
-[![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=Pot-ncia-Tech-Angular-ifood&cache_seconds=86400&theme=aura)](https://github.com/Taqueuti/Pot-ncia-Tech-Angular-ifood) [![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=Bootcamp-Decola-Tech-3a-edi-o&cache_seconds=86400&theme=aura)](https://github.com/Taqueuti/Bootcamp-Decola-Tech-3a-edi-o)
+[![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=Calculadora&cache_seconds=86400&theme=aura)](https://github.com/Taqueuti/Calculadora) 
+[![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=PedraPapelTesoura&cache_seconds=86400&theme=aura)](https://github.com/Taqueuti/PedraPapelTesoura)
+[![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=React-Native-Projetos&cache_seconds=86400&theme=aura)](https://github.com/React-Native-Projetos)
+[![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=Taqueuti&repo=Pot-ncia-Tech-Angular-ifood&cache_seconds=86400&theme=aura)](https://github.com/Pot-ncia-Tech-Angular-ifood)
 
 ![Snake animation](https://github.com/Taqueuti/Taqueuti/blob/output/github-contribution-grid-snake.svg)
 
