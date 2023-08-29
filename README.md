@@ -1,4 +1,4 @@
-#Lucas Taqueuti
+# Lucas Taqueuti
  Olá me chamo Lucas e tenho 26 anos, e sou programador Front-End, com conhecimentos em JavaScript, React Native, React e HTML/CSS.
 
  ## Contatos
